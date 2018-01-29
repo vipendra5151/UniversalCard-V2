@@ -1,8 +1,8 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid     = "esdm";
-const char* password = "12345678";
-const char* host = "universalcard.000webhostapp.com";
+const char* ssid     = "PRSINDIA";
+const char* password = "19721031";
+const char* host = "vipendra5151.github.io";
 
 char rfid[13];
 char pin[5];
